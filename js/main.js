@@ -142,11 +142,11 @@ $(document).ready(function (e) {
             w: [
                 [
                     [
-                        {text: 'Marahil ikaw ay isang taong mahilig magnegosyo, ay isang taong may dugong pangangalakal ngunit laging takot na hindi makabenta, takot sa kabiguan. O nagbebenta ka ngunit hindi ito gumagana araw-araw. Lagi mong iniisip kung paano ito malalampasan.'},
-                        {text: "Ikaw ay isang mabait na tao, ngunit ang iyong landas sa karera ay puno ng mga hadlang. Palagi mong nakikita ang iyong sarili na ibinibigay ang iyong pinakamahusay ngunit hindi kinikilala, na pakiramdam na ang iyong matalik na kaibigan ay pinipigilan ng isang tiyak na puwersa na nagdudulot ng mga paghihirap para sa iyo. Huwag kang mag-alala, tutulungan kitang harapin ito."},
-                        {text: "Ang bawat tao'y may masuwerteng numero. Nandito ako para tulungan kang mahanap ang masuwerteng numero ng iyong buhay. Makakatulong ito na baguhin ang iyong buhay sa isang mas positibo, mas masayang direksyon. Tutulungan kitang mahanap ang numero na sa huli ay magbabago sa iyong buhay"},
+                        {text: 'Ikaw ay isang napaka-patas na tao, palaging makinig sa mga tao mula sa magkabilang panig, hindi mahilig makipag-usap nang labis at napopoot sa pagiging kumplikado. Minsan marami kang iniisip tungkol sa isang problema, pagkatapos mong pag-isipang mabuti ito ay gagawa ka ng pinakamahusay na pagpipilian.'},
+                        {text: "Ang iyong landas sa karera ay madalas na puno ng mga paghihirap. Karamihan sa mga tao ay laban sa iyo, ito ay dahil pinipigilan ka ng madilim na pwersa kaya't hindi naging maayos ang iyong buhay. Huwag mong palampasin ang anuman, tutulungan kitang harapin ang mga masasamang bagay na patuloy na pumipigil sa iyo"},
+                        {text: "Ang iyong lahat ay nagpapakita na ikaw ay ipinanganak upang maging isang pinuno, na ikaw ay mas mahusay kaysa sa karamihan at na ang iyong mga pagpipilian ay palaging tama at visionary"},
                         {text: '<br><img width="400px" src="img/sep.jpeg"></br>'},
-                        {text: "Gusto mong malaman ang iyong hinaharap na kapalaran, mabilis na pindutin ang gulong ng astrolohiya, ito ay makakatulong sa iyo na malaman kung ano ang mangyayari sa iyong hinaharap upang malaman mo at maging at maiwasan."},
+                        {text: "Upang malaman ang iyong kapalaran sa hinaharap, paikutin ang gulong ng astrolohiya, ito ang magsasabi sa iyo kung ano ang mangyayari sa iyo sa malapit na hinaharap, maiiwasan mo ang malas kung paikutin mo ang gulong na ito astrolohiya."},
                     ],
                     [
                         {text: " "},
@@ -156,11 +156,11 @@ $(document).ready(function (e) {
             m: [
                 [
                     [
-                        {text: 'Marahil ikaw ay isang taong mahilig magnegosyo, ay isang taong may dugong pangangalakal ngunit laging takot na hindi makabenta, takot sa kabiguan. O nagbebenta ka ngunit hindi ito gumagana araw-araw. Lagi mong iniisip kung paano ito malalampasan.'},
-                        {text: "Ikaw ay isang mabait na tao, ngunit ang iyong landas sa karera ay puno ng mga hadlang. Palagi mong nakikita ang iyong sarili na ibinibigay ang iyong pinakamahusay ngunit hindi kinikilala, na pakiramdam na ang iyong matalik na kaibigan ay pinipigilan ng isang tiyak na puwersa na nagdudulot ng mga paghihirap para sa iyo. Huwag kang mag-alala, tutulungan kitang harapin ito."},
-                        {text: "Ang bawat tao'y may masuwerteng numero. Nandito ako para tulungan kang mahanap ang masuwerteng numero ng iyong buhay. Makakatulong ito na baguhin ang iyong buhay sa isang mas positibo, mas masayang direksyon. Tutulungan kitang mahanap ang numero na sa huli ay magbabago sa iyong buhay"},
+                        {text: 'Ikaw ay isang napaka-patas na tao, palaging makinig sa mga tao mula sa magkabilang panig, hindi mahilig makipag-usap nang labis at napopoot sa pagiging kumplikado. Minsan marami kang iniisip tungkol sa isang problema, pagkatapos mong pag-isipang mabuti ito ay gagawa ka ng pinakamahusay na pagpipilian.'},
+                        {text: "Ang iyong landas sa karera ay madalas na puno ng mga paghihirap. Karamihan sa mga tao ay laban sa iyo, ito ay dahil pinipigilan ka ng madilim na pwersa kaya't hindi naging maayos ang iyong buhay. Huwag mong palampasin ang anuman, tutulungan kitang harapin ang mga masasamang bagay na patuloy na pumipigil sa iyo"},
+                        {text: "Ang iyong lahat ay nagpapakita na ikaw ay ipinanganak upang maging isang pinuno, na ikaw ay mas mahusay kaysa sa karamihan at na ang iyong mga pagpipilian ay palaging tama at visionary"},
                         {text: '<br><img width="400px" src="img/sep.jpeg"></br>'},
-                        {text: "Gusto mong malaman ang iyong hinaharap na kapalaran, mabilis na pindutin ang gulong ng astrolohiya, ito ay makakatulong sa iyo na malaman kung ano ang mangyayari sa iyong hinaharap upang malaman mo at maging at maiwasan."},
+                        {text: "Upang malaman ang iyong kapalaran sa hinaharap, paikutin ang gulong ng astrolohiya, ito ang magsasabi sa iyo kung ano ang mangyayari sa iyo sa malapit na hinaharap, maiiwasan mo ang malas kung paikutin mo ang gulong na ito astrolohiya."},
                     ],
                     [
                         {text: ""},
